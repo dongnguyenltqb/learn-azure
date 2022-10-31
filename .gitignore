@@ -1,0 +1,4 @@
+*.tfstate*
+ssh-keys
+.terraform
+.auto.tfvars
